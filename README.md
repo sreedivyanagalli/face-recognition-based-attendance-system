@@ -1,1 +1,1 @@
-# face-recognition-based-attendance-system
+# This web application uses cutting-edge facial recognition technology to streamline student attendance taking in the classroom. By eliminating manual roll calls and paper sheets, attendance is recorded with accuracy and efficiency, saving instructors valuable time and resources. The user-friendly interface and intuitive design make it simple and convenient for both lecturers and students to operate.
