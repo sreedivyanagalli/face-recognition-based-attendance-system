@@ -47,3 +47,6 @@ This project implements a real-time face recognition system to automate attendan
 - Database-backed logging (SQLite, PostgreSQL)
 - Email/SMS notifications for entry
 - Mask detection or liveness verification
+  
+-Skills-
+`Face Recognition`, `OpenCV`, `Computer Vision`, `Python`, `Image Processing`, `Automation`, `AI Attendance System`, `CSV Logging`, `Real-Time Detection`
